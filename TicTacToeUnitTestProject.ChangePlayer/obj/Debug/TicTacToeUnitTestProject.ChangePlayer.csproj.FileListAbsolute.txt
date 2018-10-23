@@ -1,0 +1,13 @@
+E:\Quality LAbs\Lab7\TicTacToe\TicTacToeUnitTestProject.ChangePlayer\bin\Debug\TicTacToeUnitTestProject.ChangePlayer.dll
+E:\Quality LAbs\Lab7\TicTacToe\TicTacToeUnitTestProject.ChangePlayer\bin\Debug\TicTacToeUnitTestProject.ChangePlayer.pdb
+E:\Quality LAbs\Lab7\TicTacToe\TicTacToeUnitTestProject.ChangePlayer\bin\Debug\Microsoft.Pex.Framework.dll
+E:\Quality LAbs\Lab7\TicTacToe\TicTacToeUnitTestProject.ChangePlayer\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Quality LAbs\Lab7\TicTacToe\TicTacToeUnitTestProject.ChangePlayer\bin\Debug\TicTacToeUnitTestProject.dll
+E:\Quality LAbs\Lab7\TicTacToe\TicTacToeUnitTestProject.ChangePlayer\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+E:\Quality LAbs\Lab7\TicTacToe\TicTacToeUnitTestProject.ChangePlayer\bin\Debug\Microsoft.ExtendedReflection.dll
+E:\Quality LAbs\Lab7\TicTacToe\TicTacToeUnitTestProject.ChangePlayer\bin\Debug\TicTacToeUnitTestProject.pdb
+E:\Quality LAbs\Lab7\TicTacToe\TicTacToeUnitTestProject.ChangePlayer\bin\Debug\Microsoft.Pex.Framework.xml
+E:\Quality LAbs\Lab7\TicTacToe\TicTacToeUnitTestProject.ChangePlayer\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\Quality LAbs\Lab7\TicTacToe\TicTacToeUnitTestProject.ChangePlayer\obj\Debug\TicTacToeUnitTestProject.ChangePlayer.csprojResolveAssemblyReference.cache
+E:\Quality LAbs\Lab7\TicTacToe\TicTacToeUnitTestProject.ChangePlayer\obj\Debug\TicTacToeUnitTestProject.ChangePlayer.dll
+E:\Quality LAbs\Lab7\TicTacToe\TicTacToeUnitTestProject.ChangePlayer\obj\Debug\TicTacToeUnitTestProject.ChangePlayer.pdb

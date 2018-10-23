@@ -1,0 +1,9 @@
+E:\Quality LAbs\Lab7\TicTacToe\TicTacToeUnitTestProject\bin\Debug\TicTacToeUnitTestProject.dll
+E:\Quality LAbs\Lab7\TicTacToe\TicTacToeUnitTestProject\bin\Debug\TicTacToeUnitTestProject.pdb
+E:\Quality LAbs\Lab7\TicTacToe\TicTacToeUnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Quality LAbs\Lab7\TicTacToe\TicTacToeUnitTestProject\bin\Debug\TicTacToe.exe
+E:\Quality LAbs\Lab7\TicTacToe\TicTacToeUnitTestProject\bin\Debug\TicTacToe.pdb
+E:\Quality LAbs\Lab7\TicTacToe\TicTacToeUnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\Quality LAbs\Lab7\TicTacToe\TicTacToeUnitTestProject\obj\Debug\TicTacToeUnitTestProject.csprojResolveAssemblyReference.cache
+E:\Quality LAbs\Lab7\TicTacToe\TicTacToeUnitTestProject\obj\Debug\TicTacToeUnitTestProject.dll
+E:\Quality LAbs\Lab7\TicTacToe\TicTacToeUnitTestProject\obj\Debug\TicTacToeUnitTestProject.pdb
