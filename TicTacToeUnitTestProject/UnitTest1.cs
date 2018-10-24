@@ -81,6 +81,38 @@ namespace TicTacToeUnitTestProject
             Assert.IsTrue(pass);
         }
 
+        [TestMethod]
+        public void MakeMove()
+        {
+            int playerCounter = 3;
+            bool moveHasBeenMade = false;
+            if ((playerCounter != playerCounter-1) && (playerCounter != 0))
+            {
+                moveHasBeenMade = true;
+            }
+            else
+                moveHasBeenMade = false;
+            Assert.IsTrue(moveHasBeenMade);
+        }
+
+        [TestMethod]
+        public void SpaceInUs()
+        {
+            bool spaceIsFree = false;
+            bool spaceIsTaken = false;
+            int[] boardArray = new int[9];
+            for (int i = 0; i<boardArray.Length; i++)
+            {
+                if (boardArray[i] != null)
+                {
+                    spaceIsTaken = true;
+                }
+                else
+                    spaceIsFree = true;
+            }
+            Assert.IsTrue(spaceIsTaken);
+        }
+
 
     }
 }
