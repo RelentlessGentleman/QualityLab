@@ -14,7 +14,7 @@ namespace TicTacToe.Tests
         [TestMethod()]
         public void frmMainTest(int[] boardSize)
         {
-            frmMain import = new frmMain();
+            //frmMain import = new frmMain();
             bool pass = false;
             try
             {
